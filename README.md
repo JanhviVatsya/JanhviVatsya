@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/janhvi-pandey-4335b4204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://leetcode.com/janhvivatsya24/">
+    <img  src="https://img.shields.io/badge/Leetcode-E4405F?style=for-the-badge&logo=Leetcode&logoColor=white" />
+  </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=asmicro&style=flat-square&color=blue" alt=""/>
   <h1 align="center">
